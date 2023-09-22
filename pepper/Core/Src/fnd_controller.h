@@ -36,7 +36,7 @@ void digit4showZero(int n);
 void digit2(int n, int port, int replay);
 
 void digit2_port(int n, int port);
-
+void temper(int n, int replay);
 
 
 

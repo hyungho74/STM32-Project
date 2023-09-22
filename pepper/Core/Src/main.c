@@ -99,7 +99,7 @@ int main(void)
   while (1)
   {
 	  for(int i = 0; i<= 9999; i++){
-		  digit4_replay(i,50);
+		  temper(i,50);
 	  }
 	  /*if(!HAL_GPIO_ReadPin(button_pin_GPIO_Port, button_pin_Pin)){
 		  HAL_GPIO_WritePin(PB6_LED1_GPIO_Port, PB6_LED1_Pin, 0);
